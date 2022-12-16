@@ -1,0 +1,2 @@
+# palindromo
+Ejercicio de palíndromo
